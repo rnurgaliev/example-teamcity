@@ -35,4 +35,3 @@ public class WelcomerTest {
 		assertThat(welcomer.sayHunter(), containsString("hunter"));
 	}
 }
-}
