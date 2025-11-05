@@ -4,7 +4,7 @@
   <description />
   <settings>
     <options>
-      <option name="artifactRules" value="*.jar" />
+      <option name="artifactRules" value="org/netology/plaindoll/0.0.4/*.jar" />
     </options>
     <build-runners>
       <runner id="Maven2" name="" type="Maven2">
