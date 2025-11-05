@@ -4,7 +4,7 @@
   <description />
   <settings>
     <options>
-      <option name="artifactRules" value="target/*.jar" />
+      <option name="artifactRules" value="*.jar" />
     </options>
     <build-runners>
       <runner id="Maven2" name="" type="Maven2">
